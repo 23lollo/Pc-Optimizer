@@ -4,7 +4,8 @@ On fortnite and other games
 
 Before you start changing anything make sure you create a restore point
 
-Credit
+Credits
+
 TimerResolution
 https://timerresolution.com/#download-timer-resolution
 
