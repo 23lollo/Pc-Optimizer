@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00			
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:0ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MenuShowDelay"="0"
+"WaitToKillAppTimeout"="5000"
+"HungAppTimeout"="4000"
+"AutoEndTasks"="1"
+"LowLevelHooksTimeout"=dword:00001000
+"WaitToKillServiceTimeout"=dword:00002000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"

@@ -1,0 +1,18 @@
+
+
+energy saving option 
+                                                                                                      
+ULTIMATE PERFORMANCE MODE: powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+
+
+
+
+
+for use in the epic launcher
+
+-USEALLAVAILABLECORES -NOSPLASH -PREFERREDPROCESSOR 8 -NOTEXTURESTREAMING -LANPLAY -LIMITCLIENTTICKS -malloc=system -nomansky +mat_antialias 0 -limitclientticks -high
+
+
+CHANGE THE NUMBER 8 TO YOU NUMBER OF THREAD
+
+
