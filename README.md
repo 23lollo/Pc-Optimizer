@@ -19,3 +19,6 @@ https://coderbag.com/product/quickcpu
 
 Memreduct
 https://github.com/henrypp/memreduct/releases/tag/v.3.4
+
+DnsJumper
+https://www.sordum.org/7952/dns-jumper-v2-2/
