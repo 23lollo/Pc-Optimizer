@@ -1,12 +1,11 @@
 # Pc-Optimizer
-I've created this repo for boost your fps/ping/input lag for free 
-On fortnite and other games 
+I've created this repo for boost your fps/ping/input lag for free on fortnite and other games. 
 
-Before you start changing anything make sure you create a restore point
+Before you start changing anything make sure you create a restore point.
 
-All the files .exe is for windows 10 64bit if you have 32bit system go down in the credits and download it 
+All the files .exe is for windows 10 64bit if you have 32bit system go down in the credits and download it. 
 
-to find out what to do with the programs look at the credits section
+To find out what to do with the programs look at the credits section.
 
 
 
