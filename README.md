@@ -5,7 +5,7 @@ Before you start changing anything make sure you create a restore point in the f
 
 All the files .exe is for windows 10 64bit if you have 32bit system go down in the credits and download it. 
 
-to find out what the programs do, go to the Credits section.
+To find out what the programs do, go to the Credits section.
 
 
 
