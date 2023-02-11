@@ -1,11 +1,11 @@
 # Pc-Optimizer
 I've created this repo for boost your fps/ping/input lag for free on the games and for your pc 
 
-Before you start changing anything make sure you create a restore point.
+Before you start changing anything make sure you create a restore point in the folder called System Restore Point.
 
 All the files .exe is for windows 10 64bit if you have 32bit system go down in the credits and download it. 
 
-To find out what to do with the programs look at the credits section located in Pc-Optimizer/Pc Optimizer/  called System Restore Point.
+To find out what to do with the programs look at the credits section. 
 
 
 
