@@ -13,7 +13,7 @@ I've created this repo for boost your fps/ping/input lag for free on the games a
 
 Before you start changing anything make sure you create a restore point if you want I added a shortcut to open it, in the folder.
 
-All the files .exe is for windows 10 64bit if you have 32bit system go down in the credits and download it.
+All the files .exe is for windows 10/11 64bit if you have 32bit system go down in the credits and download it.
 
 To find out what the programs do, go to the Credits section.
 
