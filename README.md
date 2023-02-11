@@ -3,16 +3,13 @@
 
 I've created this repo for boost your fps/ping/input lag for free on the games and for your pc
 
-Before you start changing anything make sure you create a restore point in the folder called System Restore Point.
+Before you start changing anything make sure you create a restore point if you want I added a shortcut to open it, in the folder.
 
 All the files .exe is for windows 10 64bit if you have 32bit system go down in the credits and download it.
 
 To find out what the programs do, go to the Credits section.
 
 I will give to you the best settings. 
-
-The tools aren’t in order of importance.
-
 
 
 ## Requirements
@@ -40,27 +37,6 @@ Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 4.In the Advanced Settings section set the settings below
 
 ![2 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272740-2b45731c-8b31-442b-8415-e44b4475b828.png)
-
-
-## DnsJumper
-1.Download and Open the software.
-
-2.Click on Fastest DNS.
-
-![Dns Jumper1](https://user-images.githubusercontent.com/76433243/218273125-4830d6c8-5d3c-4ec1-a73b-723a80bf8a90.png)
-
-3.Click on Start DNS Test. 
-
-![Dns Jumper2](https://user-images.githubusercontent.com/76433243/218273178-8ec8dd62-d8a0-465b-b61c-e61b80b2cb4a.png)
-
-4.Click on Apply Dns Server and close the software.
-
-![Dns Jumper3](https://user-images.githubusercontent.com/76433243/218273414-373e5f96-2fa3-4a37-ada5-ea3212d59f2e.png)
-
-
-
-
-
 
 ## Limit Reservable Bandwidth
 1.Open Run (Windows key + R)
