@@ -11,6 +11,9 @@ To find out what the programs do, go to the Credits section.
 
 I will give to you the best settings. 
 
+The tools are not in order of importance.
+
+
 
 ## Requirements
 1.For Optimizer you need .NET Framework 4.8 
