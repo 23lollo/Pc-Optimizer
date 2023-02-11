@@ -10,6 +10,14 @@ To find out what the programs do, go to the Credits section.
 
 I will give to you the best settings. 
 
+## Requirements
+1.For Optimizer you need .NET Framework 4.8 
+
+Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+
+
+
+
 ## Limit Reservable Bandwidth
 1.Open Run (Windows key + R)
 
