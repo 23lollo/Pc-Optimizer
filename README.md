@@ -22,7 +22,8 @@ I will give to you the best settings.
 
 ## Requirements
 1.Windows 10/11
-2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) 
+
+2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnetframework/net48) 
 
 
 ## TimerResoluton
