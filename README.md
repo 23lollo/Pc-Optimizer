@@ -70,16 +70,16 @@ I will give to you the best settings.
 
 ## 🔗 Credits
 
--[TimerResolution](https://timerresolution.com/#download-timer-resolution)
+- [TimerResolution](https://timerresolution.com/#download-timer-resolution)
 
--[TCP Optimizer](https://www.speedguide.net/downloads.php)
+- [TCP Optimizer](https://www.speedguide.net/downloads.php)
 
--[DnsJumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
+- [DnsJumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
 
--[Quick CPU](https://coderbag.com/product/quickcpu)
+- [Quick CPU](https://coderbag.com/product/quickcpu)
 
--[Memreduct](https://github.com/henrypp/memreduct/releases/tag/v.3.4)
+- [Memreduct](https://github.com/henrypp/memreduct/releases/tag/v.3.4)
 
--[Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
+- [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
--[Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
+- [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
