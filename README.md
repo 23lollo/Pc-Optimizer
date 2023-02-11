@@ -15,10 +15,9 @@ I will give to you the best settings.
 ## Requirements
 1.For Optimizer you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) 
 
-Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 ## TimerResoluton
-1.Download and Open the software 
+1.Open the software 
 
 
 2.Click on maximum and click on close
@@ -26,7 +25,7 @@ Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 ![1Time resolution ](https://user-images.githubusercontent.com/76433243/218272332-08cccb6f-fc8c-4c0e-9d95-12a68bbcc6f5.png)
 
 ## TCP Optimizer 
-1.Download and Open the software as administrator
+1.Open the software as administrator
 
 2.In the General Settings section set the settings below
 
