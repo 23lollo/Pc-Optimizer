@@ -1,5 +1,5 @@
 # Pc-Optimizer
-I've created this repo for boost your fps/ping/input lag for free on the games. 
+I've created this repo for boost your fps/ping/input lag for free on the games and for your pc 
 
 Before you start changing anything make sure you create a restore point.
 
