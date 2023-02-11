@@ -13,7 +13,7 @@ I will give to you the best settings.
 
 
 ## Requirements
-1.For Optimizer you need .NET Framework 4.8 
+1.For Optimizer you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) 
 
 Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
