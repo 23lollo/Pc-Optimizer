@@ -18,30 +18,28 @@ I will give to you the best settings.
 Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 ## TimerResoluton
-1.Download and Open the software. 
+1.Download and Open the software 
 
 
-2.Click on maximum and click on close.
+2.Click on maximum and click on close
 
 ![1Time resolution ](https://user-images.githubusercontent.com/76433243/218272332-08cccb6f-fc8c-4c0e-9d95-12a68bbcc6f5.png)
 
 ## TCP Optimizer 
-1.Download and Open the software as administrator.
+1.Download and Open the software as administrator
 
-2.In the General Settings section set the settings below.
+2.In the General Settings section set the settings below
 
 ![1 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272612-9e2c9ebe-a26e-4a65-8beb-f71bf8462ac7.png)
 
-3.After the changes click on Apply Changes and don’t reboot the system.
+3.After the changes click on Apply Changes and don’t reboot the system
 
-4.In the Advanced Settings section set the settings below.
+4.In the Advanced Settings section set the settings below
 
 ![2 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272740-2b45731c-8b31-442b-8415-e44b4475b828.png)
 
-5.After the changes click on Apply Changes and now reboot the system.
-
 ## Limit Reservable Bandwidth
-1.Open Run (Windows key + R).
+1.Open Run (Windows key + R)
 
 2.Type gpedit.msc and click Ok.
 
@@ -61,12 +59,14 @@ Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 ## 🔗 Credits
 TimerResolution https://timerresolution.com/#download-timer-resolution
 
+TCP Optimizer https://www.speedguide.net/downloads.php
+
+DnsJumper https://www.sordum.org/7952/dns-jumper-v2-2/
+
 Quick CPU https://coderbag.com/product/quickcpu
 
 Memreduct https://github.com/henrypp/memreduct/releases/tag/v.3.4
 
-DnsJumper https://www.sordum.org/7952/dns-jumper-v2-2/
-
 Optimizer https://github.com/hellzerg/optimizer/releases/tag/14.8
 
-TCP Optimizer https://www.speedguide.net/downloads.php
+
