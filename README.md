@@ -81,4 +81,4 @@ I will give to you the best settings.
 
 -[Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
--[Debloater (Remove unnecessary features)](https://github.com/Teramanbr/TerabyteTweaker)
+-[Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
