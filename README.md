@@ -3,11 +3,12 @@
 
 
 ## 📋 Table of Contents
--
--
--
--
--
+- [About](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#%EF%B8%8Fabout)
+- [Requirements](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#requirements)
+- [TimerResoluton](https://github.com/23lollo/Pc-Optimizer/#timerresoluton)
+- [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer/#tcp-optimizer)
+- [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer/edit/main/README.md#requirements)
+
 
 
 ## ⚠️About
