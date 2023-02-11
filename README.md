@@ -9,6 +9,16 @@ To find out what the programs do, go to the Credits section.
 
 
 
+
+
+
+1.Open Run (Windows key + R)
+2.Type gpedit.msc and click Ok.
+3.Navigate to the path: Computer configuration > Administrative Templates > Network > QoS Packet Scheduler.
+![Limit-reservable-bandwidth-key](https://user-images.githubusercontent.com/76433243/218270607-15ca3ef3-4678-43fd-98fd-5ea9b0736f03.png)
+
+
+
 Credits
 
 TimerResolution
