@@ -55,6 +55,9 @@ Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 4.Click on Apply Dns Server and close the software.
 
+![Dns Jumper3](https://user-images.githubusercontent.com/76433243/218273414-373e5f96-2fa3-4a37-ada5-ea3212d59f2e.png)
+
+
 
 
 
