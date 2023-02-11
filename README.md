@@ -62,7 +62,7 @@ Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 -[TCP Optimizer](https://www.speedguide.net/downloads.php)
 
--[-DnsJumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
+-[DnsJumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
 
 -[Quick CPU](https://coderbag.com/product/quickcpu)
 
