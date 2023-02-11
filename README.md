@@ -57,16 +57,16 @@ Link:https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 7.Click Apply and Exit the editor.
 ## 🔗 Credits
-TimerResolution https://timerresolution.com/#download-timer-resolution
 
-TCP Optimizer https://www.speedguide.net/downloads.php
+-[TimerResolution](https://timerresolution.com/#download-timer-resolution)
 
-DnsJumper https://www.sordum.org/7952/dns-jumper-v2-2/
+-[TCP Optimizer](https://www.speedguide.net/downloads.php)
 
-Quick CPU https://coderbag.com/product/quickcpu
+-[-DnsJumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
 
-Memreduct https://github.com/henrypp/memreduct/releases/tag/v.3.4
+-[Quick CPU](https://coderbag.com/product/quickcpu)
 
-Optimizer https://github.com/hellzerg/optimizer/releases/tag/14.8
+-[Memreduct](https://github.com/henrypp/memreduct/releases/tag/v.3.4)
 
+-[Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
