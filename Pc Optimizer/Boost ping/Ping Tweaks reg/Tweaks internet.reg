@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+;### Or uncheck QoS in netwerk settings (WinVista/7+)
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\QoS]
+"Tcp Autotuning Level"="Off"
+;"Tcp Autotuning Level"="Highly Restricted"
+;"Tcp Autotuning Level"="Restricted"
+;"Tcp Autotuning Level"="Normal"
+
+"Application DSCP Marking Request"="Ignored"
+;"Application DSCP Marking Request"="Allowed"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\QoS]
+"Do not use NLA"="1"
+
+;### XP to show QoS in network settings
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"DisableUserTOSSetting"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NlaSvc\Parameters\Internet]
+"CorpLocationProbeTimeout"=dword:0000001e
+"LdapTimeoutMs"=dword:00001388
+"ShowDomainEndpointInterfaces"=dword:00000001
+"EnableNoGatewayLocationDetection"=dword:00000001
+"MinimumInternetHopCount"=dword:00000002

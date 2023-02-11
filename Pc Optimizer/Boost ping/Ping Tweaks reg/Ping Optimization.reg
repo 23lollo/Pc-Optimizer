@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"DelayedAckFrequency"=dword:00000001
+"DelayedAckTicks"=dword:00000001
+"CongestionAlgorithm"=dword:00000001
+"MultihopSets"=dword:0000000f
+"FastCopyReceiveThreshold"=dword:00004000
+"FastSendDatagramThreshold"=dword:00004000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"DefaultReceiveWindow"=dword:00004000
+"DefaultSendWindow"=dword:00004000
+"FastCopyReceiveThreshold"=dword:00004000
+"FastSendDatagramThreshold"=dword:00004000
+"DynamicSendBufferDisable"=dword:00000000
+"IgnorePushBitOnReceives"=dword:00000001
+"NonBlockingSendSpecialBuffering"=dword:00000001
+"DisableRawSecurity"=dword:00000001
