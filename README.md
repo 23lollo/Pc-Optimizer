@@ -4,14 +4,14 @@
 
 ## 📋 Table of Contents
 - [About](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#%EF%B8%8Fabout)
-- [Requirements](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#requirements)
+- [Prerequisites](https://github.com/23lollo/Pc-Optimizer/edit/main/README.md#-prerequisites)
 - [TimerResoluton](https://github.com/23lollo/Pc-Optimizer/#timerresoluton)
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer/#tcp-optimizer)
 - [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer/edit/main/README.md#requirements)
 
 
 
-## ⚠️About
+## ⚠️ About
 I've created this repo for boost your fps/ping/input lag for free on the games and for your pc
 
 Before you start changing anything make sure you create a restore point if you want I added a shortcut to open it, in the folder.
@@ -23,7 +23,7 @@ To find out what the programs do, go to the Credits section.
 I will give to you the best settings. 
 
 
-## Requirements
+## 🛑 Prerequisites
 1.Windows 10/11
 
 2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnetframework/net48) 
