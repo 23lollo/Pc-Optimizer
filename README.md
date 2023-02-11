@@ -1,6 +1,14 @@
 
 # Pc-Optimizer
 
+
+
+
+
+
+
+
+## ⚠️About
 I've created this repo for boost your fps/ping/input lag for free on the games and for your pc
 
 Before you start changing anything make sure you create a restore point if you want I added a shortcut to open it, in the folder.
@@ -13,12 +21,12 @@ I will give to you the best settings.
 
 
 ## Requirements
-1.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) 
+1.Windows 10/11
+2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) 
 
 
 ## TimerResoluton
 1.Open the software 
-
 
 2.Click on maximum and click on close
 
@@ -55,6 +63,7 @@ I will give to you the best settings.
 6.Under Options, set the bandwidth limit(%) to a lower value.
 
 7.Click Apply and Exit the editor.
+
 ## 🔗 Credits
 
 -[TimerResolution](https://timerresolution.com/#download-timer-resolution)
@@ -69,3 +78,4 @@ I will give to you the best settings.
 
 -[Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
+-[Debloater (Remove unnecessary features)]([https://github.com/Teramanbr/TerabyteTweaker)
