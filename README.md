@@ -25,3 +25,6 @@ https://www.sordum.org/7952/dns-jumper-v2-2/
 
 Optimizer
 https://github.com/hellzerg/optimizer#%EF%B8%8F-credits-for-translating
+
+TCP Optimizer
+https://www.speedguide.net/downloads.php
