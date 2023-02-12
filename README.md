@@ -36,7 +36,7 @@ I will give to you the best settings.
 
 ## Terabyte Tweaker
 
-See the guide here [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker).
+See the guide in [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker).
 
 Whith this tool you can do Debloating (Remove unnecessary features).
 
