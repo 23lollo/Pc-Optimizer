@@ -9,7 +9,7 @@
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
 - [DnsJumper](https://github.com/23lollo/Pc-Optimizer#dns-jumper)
 - [Quick CPU](https://github.com/23lollo/Pc-Optimizer#quick-cpu)
-- [Memreduct](https://github.com/23lollo/Pc-Optimizer#memreduct)
+- [Memreduct]()
 - [Optimizer]()
 - [Terabyte Tweaker]()
 - [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer#limit-reservable-bandwidth)
