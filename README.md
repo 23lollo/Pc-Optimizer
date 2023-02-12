@@ -89,8 +89,8 @@ I will give to you the best settings.
 
 6.Click on apply and click on close.
 
-## Memreduct
-1.Install Memreduct.
+## Mem Reduct
+1.Install Mem Reduct.
 
 2.Open it.
 
@@ -98,7 +98,13 @@ I will give to you the best settings.
 
 ![Mem Reduct 1](https://user-images.githubusercontent.com/76433243/218287186-90481257-da26-4d8a-ae6f-a2fd4952da4e.png)
 
-4.
+4.If you want to delete after minutes or according to the percentage of the occupied memory. 
+
+5.To do this you need to go bottom right and right click on Mem Reduct.
+
+
+
+
 
 
 ## Limit Reservable Bandwidth
