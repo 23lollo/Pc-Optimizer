@@ -8,6 +8,7 @@
 - [TimerResoluton](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#timerresoluton)
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#tcp-optimizer)
 - [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#limit-reservable-bandwidth)
+- [DnsJumper](https://github.com/23lollo/Pc-Optimizer#dns-jumper)
 
 
 
