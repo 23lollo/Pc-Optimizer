@@ -79,6 +79,8 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 
 ![2 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272740-2b45731c-8b31-442b-8415-e44b4475b828.png)
 
+5.After the changes click on Apply Changes and now reboot the system.
+
 ## DNS Jumper
 
 1.Open the program and click on Fastest DNS.
