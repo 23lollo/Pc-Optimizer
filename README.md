@@ -40,6 +40,41 @@ See the guide in [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker
 
 Whith this tool you can do Debloating (Remove unnecessary features).
 
+
+## ZTweaks | ZenoxTweaks
+
+What features does ZTweaks Our utility has:
+
+Removing debloat apps from Microsoft Store.
+
+Optimizes WiFi and Ethernet for lowest ping and packet loss.
+
+PC Cleaner which cleans the registry and junk files from your computer.
+
+DNS optimization for lower ping.
+
+Update-System if needed you can update ZTweaks with one click.
+
+Disables unneeded Windows services.
+
+Disables Windows Telementry.
+
+Resets the network card and drivers and fixes the large ping and packet loss.
+
+Desktop Window Manager (DWM) Tweaks, Which reduces CPU usage.
+
+Ping Reducer, Which reduces ping and packet instability.
+
+Sets the settings in the control panel to the best it can.
+
+Takes up little disk space.
+
+Sets games to high priority.
+
+Optimizes keyboard and mouse input latency to the lowest possible way.
+
+It has the ability to perform a Windows Restore Point with a single click.
+
 ## Optimizer 
 
 1.Open the program,in the images below there is a lot of features that you can change.
@@ -161,6 +196,8 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 
 - [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
 
+- [ztweaks](https://github.com/caxzy/ztweaks#tweaking-utilities
+
 - [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
 - [TimerResolution](https://timerresolution.com/#download-timer-resolution)
@@ -172,6 +209,8 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 - [Quick CPU](https://coderbag.com/product/quickcpu)
 
 - [Memreduct](https://github.com/henrypp/memreduct/releases/tag/v.3.4)
+
+
 
 
 
