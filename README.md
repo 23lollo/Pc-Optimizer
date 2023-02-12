@@ -68,7 +68,7 @@ I will give to you the best settings.
 3.After the process click on Apply DNS Server.
 
 ![Dns Jumper3](https://user-images.githubusercontent.com/76433243/218286323-39c83923-db4d-4df0-bf51-a07becf54213.png)
-## Quick CPU
+##Open the program  Quick CPU
 1.Open the program and set the settings below.
 
 ![Quick CPU 1](https://user-images.githubusercontent.com/76433243/218286581-92ef8a9f-0837-447e-9121-1d1ac5188d16.png)
@@ -88,6 +88,13 @@ I will give to you the best settings.
 ![Quick CPU 4](https://user-images.githubusercontent.com/76433243/218286757-0ec07ee4-98a3-4221-bf74-b675d4ced015.png)
 
 6.Click on apply and click on close
+
+## Memreduct
+1.Install Memreduct
+
+2.Open it
+
+3.When you have high memory usage click Clean memory
 
 
 
