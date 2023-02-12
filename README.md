@@ -6,7 +6,7 @@
 - [About](https://github.com/23lollo/Pc-Optimizer#%EF%B8%8F-about)
 - [Prerequisites](https://github.com/23lollo/Pc-Optimizer#-prerequisites)
 - [Terabyte Tweaker](https://github.com/23lollo/Pc-Optimizer#terabyte-tweaker)
-- [ztweaks]()
+- [ztweaks](https://github.com/23lollo/Pc-Optimizer#ztweaks--zenoxtweaks)
 - [Optimizer](https://github.com/23lollo/Pc-Optimizer#optimizer)
 - [TimerResoluton](https://github.com/23lollo/Pc-Optimizer#timerresoluton)
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
