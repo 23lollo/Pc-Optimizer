@@ -6,6 +6,7 @@
 - [About](https://github.com/23lollo/Pc-Optimizer#%EF%B8%8F-about)
 - [Prerequisites](https://github.com/23lollo/Pc-Optimizer#-prerequisites)
 - [Terabyte Tweaker](https://github.com/23lollo/Pc-Optimizer#terabyte-tweaker)
+- [ztweaks]()
 - [Optimizer](https://github.com/23lollo/Pc-Optimizer#optimizer)
 - [TimerResoluton](https://github.com/23lollo/Pc-Optimizer#timerresoluton)
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
@@ -43,7 +44,7 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 
 ## ZTweaks | ZenoxTweaks
 
-What features does ZTweaks Our utility has:
+What features has [ZTweaks](https://github.com/caxzy/ztweaks):
 
 Removing debloat apps from Microsoft Store.
 
