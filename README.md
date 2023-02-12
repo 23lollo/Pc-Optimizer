@@ -34,6 +34,32 @@ I will give to you the best settings.
 
 2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnetframework/net48). 
 
+## Terabyte Tweaker
+
+See the more detailed guide here [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker/releases/tag/v1.14.0).
+
+This tool do all in one. 
+
+Whith this tool you can do Debloating (Remove unnecessary features).
+
+## Optimizer 
+
+1.Open the program and set the settings as in the images below.
+
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/1.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/2.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/3.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/4.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/5.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/6.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/7.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/8.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/9.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/10.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/11.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/12.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/13.PNG)
+![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/14.PNG)
 
 ## TimerResoluton
 1.Open the software. 
@@ -109,8 +135,6 @@ I will give to you the best settings.
 ![mem](https://user-images.githubusercontent.com/76433243/218287606-c4b98bdc-aa06-4a54-aa96-abc3770bb19b.png)
 
 7.Click to Clean when above and set the percentage or click to Clean every and set the time.  
-
-
 
 
 
