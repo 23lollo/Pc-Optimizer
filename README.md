@@ -157,6 +157,10 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 
 ## 🔗 Credits
 
+- [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
+
+- [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
+
 - [TimerResolution](https://timerresolution.com/#download-timer-resolution)
 
 - [TCP Optimizer](https://www.speedguide.net/downloads.php)
@@ -167,6 +171,6 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 
 - [Memreduct](https://github.com/henrypp/memreduct/releases/tag/v.3.4)
 
-- [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
-- [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
+
+
