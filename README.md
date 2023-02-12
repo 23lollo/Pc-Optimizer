@@ -36,7 +36,7 @@ I will give to you the best settings.
 
 ## Terabyte Tweaker
 
-See the more detailed guide here [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker/releases/tag/v1.14.0).
+See the more detailed guide here [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker).
 
 This tool do all in one. 
 
