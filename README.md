@@ -9,7 +9,7 @@
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
 - [DnsJumper](https://github.com/23lollo/Pc-Optimizer#dns-jumper)
 - [Quick CPU](https://github.com/23lollo/Pc-Optimizer#quick-cpu)
-- [Memreduct]()
+- [Memreduct](https://github.com/23lollo/Pc-Optimizer#memreduct)
 - [Optimizer]()
 - [Terabyte Tweaker]()
 - [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer#limit-reservable-bandwidth)
@@ -98,7 +98,7 @@ I will give to you the best settings.
 
 ![Mem Reduct 1](https://user-images.githubusercontent.com/76433243/218287186-90481257-da26-4d8a-ae6f-a2fd4952da4e.png)
 
-4
+4.
 
 
 ## Limit Reservable Bandwidth
