@@ -42,7 +42,7 @@ Whith this tool you can do Debloating (Remove unnecessary features).
 
 ## Optimizer 
 
-1.Open the program and set the settings as in the images below.
+1.Open the program,in the images below there is a lot of features that you can change.
 
 ![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/1.PNG)
 ![alt](https://raw.githubusercontent.com/hellzerg/optimizer/master/images/2.PNG)
