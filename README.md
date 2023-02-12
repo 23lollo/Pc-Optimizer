@@ -30,44 +30,68 @@ I will give to you the best settings.
 
 
 ## 🛑 Prerequisites
-1.Windows 10/11
+1.Windows 10/11.
 
-2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnetframework/net48) 
+2.For [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8) you need [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnetframework/net48). 
 
 
 ## TimerResoluton
-1.Open the software 
+1.Open the software. 
 
-2.Click on maximum and click on close
+2.Click on maximum and click on close.
 
 ![1Time resolution ](https://user-images.githubusercontent.com/76433243/218272332-08cccb6f-fc8c-4c0e-9d95-12a68bbcc6f5.png)
 
 ## TCP Optimizer 
-1.Open the software as administrator
+1.Open the software as administrator.
 
-2.In the General Settings section set the settings below
+2.In the General Settings section set the settings below.
 
 ![1 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272612-9e2c9ebe-a26e-4a65-8beb-f71bf8462ac7.png)
 
-3.After the changes click on Apply Changes and don’t reboot the system
+3.After the changes click on Apply Changes and don’t reboot the system.
 
-4.In the Advanced Settings section set the settings below
+4.In the Advanced Settings section set the settings below.
 
 ![2 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272740-2b45731c-8b31-442b-8415-e44b4475b828.png)
 
 ## DNS Jumper
 
-1.Open the program and click on Fastest DNS
+1.Open the program and click on Fastest DNS.
 
 ![Dns Jumper1](https://user-images.githubusercontent.com/76433243/218286263-e47c1c17-ac8e-4ba3-a37d-8760eb7bca1d.png)
 
-2.Now click on Start DNS Test
+2.Now click on Start DNS Test.
 
 ![Dns Jumper2](https://user-images.githubusercontent.com/76433243/218286297-18b833c0-6f3d-4723-a48f-1dcf7570bb79.png)
 
-3.After the process click on Apply DNS Server
+3.After the process click on Apply DNS Server.
 
 ![Dns Jumper3](https://user-images.githubusercontent.com/76433243/218286323-39c83923-db4d-4df0-bf51-a07becf54213.png)
+## Quick CPU
+1.Open the program and set the settings below.
+
+![Quick CPU 1](https://user-images.githubusercontent.com/76433243/218286581-92ef8a9f-0837-447e-9121-1d1ac5188d16.png)
+
+2.Click the icon top left like the down one. 
+
+![Quick CPU 2](https://user-images.githubusercontent.com/76433243/218286652-ab4a1614-0cd6-4b76-8f41-0d319ba57dcd.png)
+
+3.Click on apply
+
+4.Click on Advanced CPU Settings. 
+
+![Quick CPU 3](https://user-images.githubusercontent.com/76433243/218286693-5c6f6d91-2c5f-4f7e-923e-cb0cbda654d5.png)
+
+5.Next go to Speed Shift and set all to maximum like my settings
+
+![Quick CPU 4](https://user-images.githubusercontent.com/76433243/218286757-0ec07ee4-98a3-4221-bf74-b675d4ced015.png)
+
+6.Click on apply and click on close
+
+
+
+
 ## Limit Reservable Bandwidth
 1.Open Run (Windows key + R)
 
