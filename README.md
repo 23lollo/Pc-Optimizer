@@ -197,7 +197,7 @@ It has the ability to perform a Windows Restore Point with a single click.
 
 - [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
 
-- [ztweaks](https://github.com/caxzy/ztweaks#tweaking-utilities
+- [ztweaks](https://github.com/caxzy/ztweaks#tweaking-utilities)
 
 - [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
 
