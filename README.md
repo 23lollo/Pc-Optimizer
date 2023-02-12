@@ -100,8 +100,15 @@ I will give to you the best settings.
 
 4.If you want to delete after minutes or according to the percentage of the occupied memory. 
 
-5.To do this you need to go bottom right and right click on Mem Reduct.
+5.To do this you need to go bottom right and right click on Mem Reduct icon like this.
 
+![mem1](https://user-images.githubusercontent.com/76433243/218287637-6c2d1bba-01ac-43db-98c1-33ea2ad40575.png)
+
+6.This windows will appear. 
+
+![mem](https://user-images.githubusercontent.com/76433243/218287606-c4b98bdc-aa06-4a54-aa96-abc3770bb19b.png)
+
+7.Click to Clean when above and set the percentage or click to Clean every and set the time.  
 
 
 
