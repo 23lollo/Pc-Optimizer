@@ -38,8 +38,6 @@ I will give to you the best settings.
 
 See the more detailed guide here [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker).
 
-This tool do all in one. 
-
 Whith this tool you can do Debloating (Remove unnecessary features).
 
 ## Optimizer 
