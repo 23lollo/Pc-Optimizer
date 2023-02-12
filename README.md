@@ -49,6 +49,19 @@ I will give to you the best settings.
 
 ![2 TCP Optimizer](https://user-images.githubusercontent.com/76433243/218272740-2b45731c-8b31-442b-8415-e44b4475b828.png)
 
+## DNS Jumper
+
+1.Open the program and click on Fastest DNS
+
+![Dns Jumper1](https://user-images.githubusercontent.com/76433243/218286263-e47c1c17-ac8e-4ba3-a37d-8760eb7bca1d.png)
+
+2.Now click on Start DNS Test
+
+![Dns Jumper2](https://user-images.githubusercontent.com/76433243/218286297-18b833c0-6f3d-4723-a48f-1dcf7570bb79.png)
+
+3.After the process click on Apply DNS Server
+
+![Dns Jumper3](https://user-images.githubusercontent.com/76433243/218286323-39c83923-db4d-4df0-bf51-a07becf54213.png)
 ## Limit Reservable Bandwidth
 1.Open Run (Windows key + R)
 
