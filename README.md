@@ -2,7 +2,7 @@
 # Pc-Optimizer
 
 
-## 📋 Table of Contents
+## 📋 Table of The Methods 
 - [About](https://github.com/23lollo/Pc-Optimizer#%EF%B8%8F-about)
 - [Prerequisites](https://github.com/23lollo/Pc-Optimizer#-prerequisites)
 - [Terabyte Tweaker](https://github.com/23lollo/Pc-Optimizer#terabyte-tweaker)
