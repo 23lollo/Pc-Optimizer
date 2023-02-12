@@ -5,13 +5,13 @@
 ## 📋 Table of Contents
 - [About](https://github.com/23lollo/Pc-Optimizer#%EF%B8%8F-about)
 - [Prerequisites](https://github.com/23lollo/Pc-Optimizer#-prerequisites)
+- [Terabyte Tweaker](https://github.com/23lollo/Pc-Optimizer#terabyte-tweaker)
+- [Optimizer](https://github.com/23lollo/Pc-Optimizer#optimizer)
 - [TimerResoluton](https://github.com/23lollo/Pc-Optimizer#timerresoluton)
 - [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
 - [DnsJumper](https://github.com/23lollo/Pc-Optimizer#dns-jumper)
 - [Quick CPU](https://github.com/23lollo/Pc-Optimizer#quick-cpu)
 - [Memreduct](https://github.com/23lollo/Pc-Optimizer#mem-reduct)
-- [Optimizer]()
-- [Terabyte Tweaker]()
 - [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer#limit-reservable-bandwidth)
 
 
