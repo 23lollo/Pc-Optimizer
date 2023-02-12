@@ -77,30 +77,32 @@ I will give to you the best settings.
 
 ![Quick CPU 2](https://user-images.githubusercontent.com/76433243/218286652-ab4a1614-0cd6-4b76-8f41-0d319ba57dcd.png)
 
-3.Click on apply
+3.Click on apply.
 
 4.Click on Advanced CPU Settings. 
 
 ![Quick CPU 3](https://user-images.githubusercontent.com/76433243/218286693-5c6f6d91-2c5f-4f7e-923e-cb0cbda654d5.png)
 
-5.Next go to Speed Shift and set all to maximum like my settings
+5.Next go to Speed Shift and set all to maximum like my settings.
 
 ![Quick CPU 4](https://user-images.githubusercontent.com/76433243/218286757-0ec07ee4-98a3-4221-bf74-b675d4ced015.png)
 
-6.Click on apply and click on close
+6.Click on apply and click on close.
 
 ## Memreduct
-1.Install Memreduct
+1.Install Memreduct.
 
-2.Open it
+2.Open it.
 
-3.When you have high memory usage click Clean memory
+3.When you have high memory usage click on Clean memory.
 
+![Mem Reduct 1](https://user-images.githubusercontent.com/76433243/218287186-90481257-da26-4d8a-ae6f-a2fd4952da4e.png)
 
+4
 
 
 ## Limit Reservable Bandwidth
-1.Open Run (Windows key + R)
+1.Open Run (Windows key + R).
 
 2.Type gpedit.msc and click Ok.
 
