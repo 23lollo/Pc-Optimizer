@@ -3,12 +3,13 @@
 
 
 ## 📋 Table of Contents
-- [About](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#%EF%B8%8F-about)
-- [Prerequisites](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#-prerequisites)
-- [TimerResoluton](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#timerresoluton)
-- [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#tcp-optimizer)
-- [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer/blob/main/README.md#limit-reservable-bandwidth)
+- [About](https://github.com/23lollo/Pc-Optimizer#%EF%B8%8F-about)
+- [Prerequisites](https://github.com/23lollo/Pc-Optimizer#-prerequisites)
+- [TimerResoluton](https://github.com/23lollo/Pc-Optimizer#timerresoluton)
+- [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
 - [DnsJumper](https://github.com/23lollo/Pc-Optimizer#dns-jumper)
+- [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer#limit-reservable-bandwidth)
+
 
 
 
