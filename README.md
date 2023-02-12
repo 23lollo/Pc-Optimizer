@@ -136,7 +136,7 @@ It has the ability to perform a Windows Restore Point with a single click.
 
 ![Dns Jumper3](https://user-images.githubusercontent.com/76433243/218286323-39c83923-db4d-4df0-bf51-a07becf54213.png)
 ## Quick CPU
-1.Open the program and set the settings below.
+1.Install and open the program and set the settings below.
 
 ![Quick CPU 1](https://user-images.githubusercontent.com/76433243/218286581-92ef8a9f-0837-447e-9121-1d1ac5188d16.png)
 
